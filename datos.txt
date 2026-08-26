@@ -1,3 +1,4 @@
 Nombre: Saul Elvin Huanca Marca
 Materia: Actualización Tecnológica paralelo A
 Carrera: Ingeniería Sistemas y informática
+semestre: II/2026
