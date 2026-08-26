@@ -3,3 +3,4 @@ Materia: Actualización Tecnológica paralelo A
 Carrera: Ingeniería Sistemas y informática
 semestre: II/2026
 mención: gestión de la información
+ciudad: oruro
